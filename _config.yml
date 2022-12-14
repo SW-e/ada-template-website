@@ -1,5 +1,6 @@
-remote-theme:  minimal-mistakes-jekyll
-title: Adamantium Template Website
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have onetitle: Adamantium Template Website
 description: A template website for ADA
 show_downloads: True
 navigation:
