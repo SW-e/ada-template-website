@@ -1,5 +1,7 @@
-theme: jekyll-theme-midnight
-title: Adamantium Template Website aaa
+remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+- jekyll-remote-theme 
+title: Adamantium Template Website bbb
 description: A template website for ADA
 show_downloads: True
 navigation:
