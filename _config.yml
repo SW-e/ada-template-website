@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote-theme: jekyll-theme-minimal
 plugins:
 - jekyll-remote-theme
 title: Adamantium Template Website arr
