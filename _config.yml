@@ -1,4 +1,6 @@
 theme: jekyll-theme-tactile
+plugins:
+- jekyll-remote-theme
 title: Adamantium Template Website jhvbdvahs
 description: A template website for ADA
 show_downloads: True
