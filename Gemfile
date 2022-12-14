@@ -1,9 +1,4 @@
 source 'https://rubygems.org'
 gem 'github-pages'
-group :jekyll_plugins do
-  gem 'jekyll-feed', '~> 0.12'
-  gem 'jekyll-remote-theme'
-  gem 'jekyll-sitemap'
-  gem 'jekyll-seo-tag'
-end
-gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+gem 'jekyll-remote-theme'
+gem 'jekyll-theme-minimal', '~> 0.2.0'
